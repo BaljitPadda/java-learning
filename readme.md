@@ -1,7 +1,6 @@
-# title
+# Java learning
 
-hello, this is some notes
+Collection of my notes/coding exercises from my Java learning.
 
-* bullet point
 
 
